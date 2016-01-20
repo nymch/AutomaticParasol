@@ -1,0 +1,3 @@
+visitor-doubleDispatching
+visitInfixOperationNode: anInfixOperationNode
+	^anInfixOperationNode left asString, anInfixOperationNode operator asString, anInfixOperationNode right asString.

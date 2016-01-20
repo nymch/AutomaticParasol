@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"action" : "KensukeOhta 1/15/2016 15:29",
+		"action:" : "KensukeOhta 1/15/2016 15:29",
+		"actionIdentifiersDictionary" : "KensukeOhta 1/15/2016 12:48",
+		"addElement:ForAction:" : "KensukeOhta 1/15/2016 15:22",
+		"buildAction:forNode:" : "KensukeOhta 1/15/2016 16:19",
+		"findElementIdentifiersDictionary" : "KensukeOhta 1/15/2016 12:38",
+		"initialize" : "KensukeOhta 1/15/2016 15:31",
+		"processActionForClassInstanceCreationExpressionNode:" : "KensukeOhta 1/15/2016 15:15",
+		"processActionForMethodInvocationNode:" : "KensukeOhta 1/15/2016 16:07",
+		"testActions" : "KensukeOhta 1/15/2016 15:19",
+		"testActions:" : "KensukeOhta 1/15/2016 11:34",
+		"visitExpressionNode:" : "KensukeOhta 1/15/2016 16:07",
+		"visitExpressionStatementNode:" : "KensukeOhta 1/15/2016 16:19",
+		"visitInfixOperationNode:" : "KensukeOhta 1/13/2016 23:06",
+		"visitMethodDeclarationNode:" : "KensukeOhta 1/12/2016 11:43",
+		"visitStringLiteralNode:" : "KensukeOhta 1/13/2016 23:07" } }

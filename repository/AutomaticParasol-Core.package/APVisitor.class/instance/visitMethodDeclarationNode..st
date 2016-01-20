@@ -1,0 +1,3 @@
+visitor-doubleDispatching
+visitMethodDeclarationNode: aMethodDeclarationNode
+	^self visitNode: aMethodDeclarationNode body.

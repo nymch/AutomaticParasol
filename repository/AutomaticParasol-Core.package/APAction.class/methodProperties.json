@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"doAction:with:" : "KensukeOhta 11/25/2015 18:12" },
+	"instance" : {
+		"clear" : "KensukeOhta 1/15/2016 12:47",
+		"click" : "KensukeOhta 1/15/2016 12:46",
+		"driver:" : "KensukeOhta 1/15/2016 12:47",
+		"element" : "KensukeOhta 11/30/2015 16:25",
+		"element:" : "KensukeOhta 1/15/2016 11:02",
+		"selectByVisibleText:" : "KensukeOhta 1/15/2016 12:46",
+		"sendKeys:" : "KensukeOhta 1/15/2016 12:46" } }

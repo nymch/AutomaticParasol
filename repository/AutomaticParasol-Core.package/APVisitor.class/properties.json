@@ -1,0 +1,20 @@
+{
+	"category" : "AutomaticParasol-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"runner",
+		"actionIdentifiers",
+		"findElementIdentifiers",
+		"findElementNode",
+		"testCases",
+		"testActions",
+		"actionObject" ],
+	"name" : "APVisitor",
+	"pools" : [
+		 ],
+	"super" : "PJASTNodeVisitor",
+	"type" : "normal" }

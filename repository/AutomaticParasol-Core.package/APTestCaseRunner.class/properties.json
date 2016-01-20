@@ -1,0 +1,16 @@
+{
+	"category" : "AutomaticParasol-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"driver",
+		"baseUrl",
+		"testActions" ],
+	"name" : "APTestCaseRunner",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

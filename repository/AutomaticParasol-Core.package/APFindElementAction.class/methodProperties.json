@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"findElementByCSSSelector:" : "KensukeOhta 1/15/2016 11:01",
+		"findElementByID:" : "KensukeOhta 1/15/2016 11:01",
+		"findElementByLinkText:" : "KensukeOhta 1/15/2016 11:00",
+		"findElementByName:" : "KensukeOhta 1/15/2016 11:00",
+		"findElementByXPath:" : "KensukeOhta 1/15/2016 11:00" } }

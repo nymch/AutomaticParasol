@@ -1,0 +1,14 @@
+{
+	"category" : "AutomaticParasol-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"element" ],
+	"name" : "APAction",
+	"pools" : [
+		 ],
+	"super" : "APActionObject",
+	"type" : "normal" }
