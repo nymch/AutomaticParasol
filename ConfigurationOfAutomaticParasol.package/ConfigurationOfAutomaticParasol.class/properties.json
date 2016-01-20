@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfAutomaticParasol",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfAutomaticParasol",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
