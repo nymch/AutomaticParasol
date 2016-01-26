@@ -8,5 +8,5 @@ version01: spec
 		spec author: 'KensukeOhta'.
 		spec timestamp: '1/20/2016 12:01'.
 		spec
-			package: 'AutomaticParasol-Core' with: 'AutomaticParasol-Core-KensukeOhta.8'.
+			package: 'AutomaticParasol-Core' with: 'AutomaticParasol-Core-KensukeOhta.9'.
 			].

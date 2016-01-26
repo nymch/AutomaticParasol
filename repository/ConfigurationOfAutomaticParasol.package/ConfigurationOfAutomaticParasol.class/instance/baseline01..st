@@ -5,7 +5,7 @@ baseline01: spec
 	spec for: #'common' do:[
 		spec blessing: #'baseline'.
 		spec description: 'AutomaticParasol is running SeleniumIDE-Generated tests in smalltalk.'.
-		spec repository: 'http://smalltalkhub.com/mc/nymch/AutomaticParasol/main'.
+		spec repository: 'github://nymch/AutomaticParasol:v0.1/repository'.
 		spec project: 'PetitJava' with:[
 			spec
 				className: 'ConfigurationOfPetitJava';
